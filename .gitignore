@@ -1,5 +1,5 @@
-# Created by .ignore support plugin (hsz.mobi)
-.idea/metric-space-framework.iml
-.idea/modules.xml
-.idea/workspace.xml
+syntax: glob
+
+*.iml
 target
+.idea
